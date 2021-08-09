@@ -13,4 +13,4 @@ This repository contains automated Web UI tests for free and open website http:/
 3. Once installed, start up Cypress in the directory of the repo, i.e. ```npx cypress open```.
 4. The test cases will appear under the Integration folder. 
 
-## Descriptions of the test cases 
+
